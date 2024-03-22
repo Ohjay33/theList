@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+}
+
+.thePaper{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background-color: black;
+}
+
+.title{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    font-family: "Henny Penny";
+    font-size: 51px;
+    color: whitesmoke;
+
+
+}
+
+
+
+.project{
+    padding-bottom: 10px;
+    font-size: 25px;
+    color: burlywood;
+
+}
+
+a{
+    font-family: "Kavoon";
+}
+
+a:link {
+    color: #fdf8f8;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #fdf8f8;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #80007f;
+    text-decoration: none;
+}
